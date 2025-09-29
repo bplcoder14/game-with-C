@@ -31,10 +31,10 @@
 
 ### Key to inputState bit
 bit #   |   keybind
-    0   |   w | up arrow
-    1   |   s | down arrow
-    2   |   a | left arrow
-    3   |   d | right arrow
+    0   |   w
+    1   |   s
+    2   |   a
+    3   |   d
     4   |   j
     5   |   k
     6   |   h
@@ -45,5 +45,7 @@ bit #   |   keybind
     11  |   4
     12  |   space
     13  |   enter
-    14  |
-    15  |
+    14  |   up arrow
+    15  |   down arrow
+    16  |   left arrow
+    17  |   right arrow
